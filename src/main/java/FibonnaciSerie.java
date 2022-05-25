@@ -1,8 +1,6 @@
 
 public class FibonnaciSerie {
 
-    public FibonnaciSerie(){}
-
     public static void main(String[] args) {
         FibonnaciSerie fib = new FibonnaciSerie();
         int num=7;
